@@ -1,0 +1,23 @@
+.body_background{
+    background-image:url("birthday_background.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    background-image: url("Birthdaycake_gif_background.gif");
+    background-color: white;
+    border-radius: 30px;
+    border-color:blue;
+    border-style: solid;
+}
+h1{
+    font-size: 100px;
+    color:blue ;
+}
+#music_button{
+  background-color:orange ;
+  font-style: oblique;
+  font-size: 19px;
+  width: 110px;
+  height: 50px;  
+}
