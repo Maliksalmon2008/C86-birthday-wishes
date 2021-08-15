@@ -9,6 +9,7 @@
     border-radius: 30px;
     border-color:blue;
     border-style: solid;
+    background-size: cover;
 }
 h1{
     font-size: 100px;
